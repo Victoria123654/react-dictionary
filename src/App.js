@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App container">
       <header className="App-header">
-        <Dictionary />
+        <Dictionary defaultKeyword="dictionary" />
       </header>
       <footer>
         coded by Viktoriia K

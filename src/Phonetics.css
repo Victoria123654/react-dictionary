@@ -1,0 +1,20 @@
+.Phonetic {
+  height: 60px;
+}
+
+.Phonetic audio {
+  width: 250px;
+  height: 50px;
+  margin-right: 20px;
+}
+
+.Phonetic audio::-webkit-media-controls-panel {
+  background-color: #f9f1f0;
+}
+
+.Phonetic .text {
+  position: absolute;
+  opacity: 0.7;
+  font-weight: bold;
+  margin-top: 15px;
+}

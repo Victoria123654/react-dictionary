@@ -1,8 +1,9 @@
 import React from "react";
+import "./Example.css"
 
 export default function Example(props) {
     if (props.example) {
-        return (<p><strong>Example:</strong> <em>{props.example}</em></p>);
+        return (<div className="example"><em>{props.example}</em></div>);
     }
     else {
         return null;

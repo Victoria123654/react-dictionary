@@ -1,6 +1,10 @@
+body {
+  background-color: #fadcdc;
+}
+
 .App {
   max-width: 600;
-  text-align: center;
+
   margin-top: 30px;
 }
 

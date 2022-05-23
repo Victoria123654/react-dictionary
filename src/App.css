@@ -3,8 +3,7 @@ body {
 }
 
 .App {
-  max-width: 600;
-
+  max-width: 960px;
   margin-top: 30px;
 }
 
